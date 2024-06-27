@@ -3,7 +3,7 @@
 Uncover associations between products purchased together by customers to optimize business strategies.
 
 - Used custom tkinter for intuitive and user-friendly GUI.
-- 
+  
 – Allows users to specify confidence and support values according to their requirements.
 
 – Saves generated association rules and findings into a MySQL database at runtime.
