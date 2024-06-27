@@ -1,4 +1,5 @@
 # market-basket-analyzer
+
 Uncover associations between products purchased together by customers to optimize business strategies.
 
 - Used custom tkinter for intuitive and user-friendly GUI.
